@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+env/
+venv/
+.medimg/
+
+# Data and outputs
+data/
+checkpoints/
+outputs/
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Logs
+*.log
